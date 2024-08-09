@@ -1,1 +1,1 @@
-# qaacademy_pageobject
+# training exercices.
